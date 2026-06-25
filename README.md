@@ -1,4 +1,4 @@
-# Simulations · [Association Name]
+# Simulations
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-orange.svg)
 ![Tool](https://img.shields.io/badge/tool-OpenRocket-blue.svg)
